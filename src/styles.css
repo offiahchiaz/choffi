@@ -26,3 +26,14 @@
     @apply ml-2; 
     @apply mt-2;
 }
+
+.btn {
+    @apply rounded-full;
+    @apply py-2;
+    @apply px-3;
+    @apply uppercase;
+    @apply text-xs;
+    @apply font-bold;
+    @apply cursor-pointer;
+    @apply tracking-wider;
+}
